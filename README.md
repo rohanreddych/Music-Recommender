@@ -5,6 +5,6 @@ This app is intended as a music recommender system based on the emotion of the u
 Emotion Detection using tf.js
 
 # TO-DO
-Connect with Spotify Webplayback API 
-Create UI
+Connect with Spotify Webplayback API <br/>
+Create UI <br/>
 Create backend 
